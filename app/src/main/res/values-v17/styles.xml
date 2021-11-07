@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="surname_style">
+        <item name="android:textColor">@color/surnameTextColor</item>
+        <item name="android:background">@drawable/rectangle_fade</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:layout_marginStart">110dp</item>
+        <item name="android:layout_marginTop">178dp</item>
+        <item name="android:layout_marginEnd">110dp</item>
+        <item name="android:layout_marginBottom">44dp</item>
+
+    </style>
+</resources>
