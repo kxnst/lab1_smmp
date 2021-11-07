@@ -8,21 +8,12 @@
 
     <TextView
         android:id="@+id/textView"
-        style="@style/surname_style"
-        android:background="@drawable/rectangle_fade"
-        android:textColor="@color/surnameTextColor"
-        android:padding="10dp"
-        android:layout_width="0dp"
-        android:layout_height="35dp"
-        android:layout_marginStart="110dp"
-        android:layout_marginTop="178dp"
-        android:layout_marginEnd="110dp"
-        android:layout_marginBottom="44dp"
         android:text="@string/last_name"
+        style="@style/surname_style"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.26" />
+        app:layout_constraintVertical_bias="0.26"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
